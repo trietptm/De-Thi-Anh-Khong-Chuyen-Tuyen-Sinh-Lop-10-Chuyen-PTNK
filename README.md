@@ -1,5 +1,5 @@
 # De-Thi-Anh-Khong-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-PTNK
-Đề Thi Anh Không Chuyên Tuyển Sinh Lớp 10 Chuyên Trường Phổ Thông Năng Khiếu (PTNK), Đại Học Quốc Gia TP.HCM
+Đề Thi Tiếng Anh Không Chuyên Tuyển Sinh Lớp 10 Chuyên Trường Phổ Thông Năng Khiếu (PTNK), Đại Học Quốc Gia TP.HCM
 
 ## 2024-2025:
 ![image](https://github.com/user-attachments/assets/08943f48-6d93-4cc8-b4b4-e34638601337)
