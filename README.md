@@ -10,5 +10,8 @@
 
 
 
+## CẤU TRÚC ĐỀ THI TUYỂN SINH LỚP 10:
+![image](https://github.com/user-attachments/assets/903c33e5-8744-4903-9b5d-0f05dce014fd)
+![image](https://github.com/user-attachments/assets/71097e04-c3f9-44f3-88d3-67346a79779a)
 
 
